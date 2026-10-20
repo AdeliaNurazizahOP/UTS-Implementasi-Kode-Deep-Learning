@@ -1,5 +1,5 @@
 **Nama:** Adelia Nurazizah Omega Putri  
-**NPM:** G1A023022 
+**NPM:** G1A023022  
 **Mata Kuliah:** Deep Learning
 # UTS Implementasi Kode Deep Learning
 
